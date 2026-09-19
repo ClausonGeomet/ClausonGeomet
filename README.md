@@ -19,17 +19,17 @@ I work at the intersection of geology, mineral processing and statistics — hel
 #### `chRonostatistics`
 An R package for chronological variograms and variance-component analysis of process data.
 
-**Status:** open source — [view the package on GitHub](https://github.com/ClausonGeomet/ChRonostatistics).
+**Status:** open source — [view the public package on GitHub](https://github.com/ClausonGeomet/chRonostatistics-r).
 
 #### Geometallurgical Drillhole Optimiser
-An interactive tool to support geometallurgical drilling and sampling decisions.
+An interactive demonstration in preparation, initially focused on BBWi testwork selection from intervals that have already been drilled and assayed.
 
-**Status:** public Shiny application preparing for launch; source code remains private.
+**Status:** public Shiny application preparing for launch; source code remains private. [About the demonstration](https://clausongeomet.com/tools/).
 
 #### Element-to-mineral conversion
 Applied research into converting elemental assay information to mineralogical estimates while making assumptions and uncertainty explicit.
 
-**Status:** technical article under review.
+**Status:** published — [read the article](https://clausongeomet.com/writing/posts/element-to-mineral-conversion/).
 
 ### Clauson Geomet
 
