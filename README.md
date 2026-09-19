@@ -23,7 +23,7 @@ I work at the intersection of geology, mineral processing and statistics — hel
 #### `chRonostatistics`
 An R package for chronological variograms and variance-component analysis of process data.
 
-**Status:** preparing for open-source release.
+**Status:** open source — [view the package on GitHub](https://github.com/ClausonGeomet/ChRonostatistics).
 
 #### Geometallurgical Drillhole Optimiser
 An interactive tool to support geometallurgical drilling and sampling decisions.
