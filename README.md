@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ClausonGeomet/clausongeomet.github.io/main/assets/logo-lockup-final.png" alt="Clauson Geomet" width="620">
-</p>
-
 <h1 align="center">Statistical geometallurgy for better decisions.</h1>
 
 <p align="center">
