@@ -4,7 +4,7 @@
   <strong>Geology × Processing × Statistics</strong>
 </p>
 
-I'm **Matt Clauson**, a Perth-based geometallurgist and statistical modeller and the founder of **Clauson Geomet**.
+I'm **Matt Clauson**, a Perth-based geometallurgist and statistical modeller, and the founder of **Clauson Geomet**.
 
 I work at the intersection of geology, mineral processing and statistics — helping mining and mineral-processing teams turn orebody, testwork and plant data into defensible decisions and practical analytical tools.
 
@@ -14,22 +14,29 @@ I work at the intersection of geology, mineral processing and statistics — hel
 - **Statistical inference** — compositional data analysis, causal inference, Bayesian modelling and uncertainty.
 - **Practical implementation** — reproducible R/Python workflows, interactive applications and specialist decision-support tools.
 
-### Current work
+### Published & available
 
 #### `chRonostatistics`
-An R package for chronological variograms and variance-component analysis of process data.
+An open-source R package for chronological variograms and variance-component analysis of process data.
 
-**Status:** open source — [view the public package on GitHub](https://github.com/ClausonGeomet/chRonostatistics-r).
+[View the package on GitHub](https://github.com/ClausonGeomet/chRonostatistics-r)
+
+#### Technical writing
+I write about geometallurgy, mineral processing, statistics and applied analytical problems that I think are worth digging into.
+
+[Read the articles](https://clausongeomet.com/writing/)
+
+A recent example is **From elements to minerals: what an assay can tell us**, which looks at mass balance, ambiguity and defensible mineralogical interpretation.
+
+### In development
 
 #### Geometallurgical Drillhole Optimiser
-An interactive demonstration in preparation, initially focused on BBWi testwork selection from intervals that have already been drilled and assayed.
+An interactive demonstration for prioritising metallurgical testwork when samples and budget are limited. The current work is centred on information gain, practical constraints and making the selection logic easy to explain.
 
-**Status:** public Shiny application preparing for launch; source code remains private. [About the demonstration](https://clausongeomet.com/tools/).
+[About the optimiser](https://clausongeomet.com/tools/)
 
-#### Element-to-mineral conversion
-Applied research into converting elemental assay information to mineralogical estimates while making assumptions and uncertainty explicit.
-
-**Status:** published — [read the article](https://clausongeomet.com/writing/posts/element-to-mineral-conversion/).
+#### Causal inference for compositional geometallurgy
+Ongoing research into when compositional representation matters for causal estimation, what goes wrong when closed data are treated like ordinary variables, and how methods such as g-computation, double machine learning and causal forests behave in geometallurgical settings.
 
 ### Clauson Geomet
 
